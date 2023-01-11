@@ -1,24 +1,53 @@
 # Hi there, I'm Ranu Kumari <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" height="40px" />
-<h3 align="center">A Girl trying to Figure-Out Stuff!!</h3>
+[<img align="left" alt="LinkedIn" width="30px" src="https://img.icons8.com/ios-filled/344/linkedin-2--v2.png"/>][linkedin]
+[<img align="left" alt="Mail" width="29px" src="https://img.icons8.com/material-outlined/96/000000/mail.png"/>][mail]
 
-- 🔭 I’m interested in **Full Stack Development**
+<br/>
+<br/>
 
-- 🌱 I’m currently learning **Everything**
+### I'm a Software Engineer and Enthusiastic Learner 👨‍🎓
 
-- 👯 I’m looking to collaborate with **other Developer and Designer**
+- 🌱 I’m currently learning everything 😎
+- 👨‍💻 I’m interested in Full-Stack Development
+- 👯 I’m looking to collaborate with other Designer and Developer
+- ⚡ Fun fact: I think I am Funny XD
 
-- ⚡ Fun fact **I think I am funny XD**
 
-<h3 align="left">Connect with me:</h3>
+<!-- ## Tools and Technologies:
+
+[<img align="left" alt="C/C++" width="35px" src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png" />](#)
+[<img align="left" alt="ReactJS" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"/>](#)
+[<img align="left" alt="JavaScript" width="37px" src="https://img.icons8.com/color/96/000000/javascript--v1.png"/>](#)
+[<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](#)
+[<img align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](#)
+[<img align="left" alt="Visual Studio Code" width="35px" src="https://img.icons8.com/color/96/000000/visual-studio-code-2019.png"/>](#)
+<br/>
+<br/>
+[<img align="left" alt="MySQL" width="45px" height="40px" src="https://img.icons8.com/fluency/96/000000/mysql-logo.png"/>](#)
+[<img align="left" alt="Git" width="35px" src="https://img.icons8.com/color/96/000000/git.png"/>](#)
+[<img align="left" alt="GitHub" width="35px" src="https://img.icons8.com/ios-glyphs/90/000000/github.png"/>](#)
+[<img align="left" alt="Linux" width="35px" src="https://img.icons8.com/color/48/000000/linux--v2.gif"/>](#) -->
+
+<br/>
+
+<!-- ### 📈 Github Stats: -->
+## Github Stats:
+
+[![Ranu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ranu1490&show_icons=true)](#)
+<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ranu1490&layout=compact)](#)
+<br/>
+<!-- [![Trophy](https://github-profile-trophy.vercel.app/?username=ranu1490&theme=onedark)](#) -->
+<!-- [![Ranu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ranu1490)](#) -->
+
+
+
+
+[linkedin]: https://in.linkedin.com/in/ranu-kumari-8167311a5
+[mail]: mailto:ranusinghrajput75@gmail.com
+
 <p align="left">
 <a href="https://linkedin.com/in/ranu-kumari-8167311a5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ranu-kumari-8167311a5" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ranusinghrajput75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ranusinghrajput75" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@ranusinghrajput6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@ranusinghrajput6" height="30" width="40" /></a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ranu1490&show_icons=true&locale=en&layout=compact" alt="ranu1490" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ranu1490&" alt="ranu1490" /></p>
