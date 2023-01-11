@@ -15,7 +15,8 @@
 
 ## Tools and Technologies:
 
-[<img align="left" alt="C/C++" width="35px" src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png" />](#)
+[<img align="left" alt="C++" width="35px" src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png" />](#)
+[<img align="left" alt="C" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />](#)
 [<img align="left" alt="ReactJS" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"/>](#)
 [<img align="left" alt="JavaScript" width="37px" src="https://img.icons8.com/color/96/000000/javascript--v1.png"/>](#)
 [<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](#)
