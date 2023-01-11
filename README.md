@@ -13,7 +13,7 @@
 - ⚡ Fun fact: I think I am Funny XD
 
 
-<!-- ## Tools and Technologies:
+## Tools and Technologies:
 
 [<img align="left" alt="C/C++" width="35px" src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png" />](#)
 [<img align="left" alt="ReactJS" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"/>](#)
@@ -26,7 +26,7 @@
 [<img align="left" alt="MySQL" width="45px" height="40px" src="https://img.icons8.com/fluency/96/000000/mysql-logo.png"/>](#)
 [<img align="left" alt="Git" width="35px" src="https://img.icons8.com/color/96/000000/git.png"/>](#)
 [<img align="left" alt="GitHub" width="35px" src="https://img.icons8.com/ios-glyphs/90/000000/github.png"/>](#)
-[<img align="left" alt="Linux" width="35px" src="https://img.icons8.com/color/48/000000/linux--v2.gif"/>](#) -->
+[<img align="left" alt="Linux" width="35px" src="https://img.icons8.com/color/48/000000/linux--v2.gif"/>](#) 
 
 <br/>
 
