@@ -46,8 +46,9 @@
 [linkedin]: https://in.linkedin.com/in/ranu-kumari-8167311a5
 [mail]: mailto:ranusinghrajput75@gmail.com
 
+<br><br>
+<h1>Others</h1>
 <p align="left">
-<a href="https://linkedin.com/in/ranu-kumari-8167311a5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ranu-kumari-8167311a5" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ranusinghrajput75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ranusinghrajput75" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@ranusinghrajput6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@ranusinghrajput6" height="30" width="40" /></a>
 </p>
