@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ranu Kumari</h1><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" height="40px" />
+# Hi there, I'm Ranu Kumari <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" height="40px" />
 <h3 align="center">A Girl trying to Figure-Out Stuff!!</h3>
 
 - 🔭 I’m interested in **Full Stack Development**
