@@ -51,6 +51,5 @@
 <br><br>
 <h1>Others</h1>
 <p align="left">
-<a href="https://www.leetcode.com/ranusinghrajput75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ranusinghrajput75" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@ranusinghrajput6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@ranusinghrajput6" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ranu1815" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ranu1815" height="30" width="40" /></a>
 </p>
